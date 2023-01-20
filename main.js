@@ -71,8 +71,9 @@ allStories.forEach((el, i) => {
   name.classList.add("story_name");
   name.innerHTML = el.title;
 
-  storiesContainer.appendChild(content);
   content.append(img, name);
+
+  storiesContainer.appendChild(content);
 
   content.addEventListener("click", () => {
     currentIndex = i;
