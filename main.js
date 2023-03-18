@@ -39,7 +39,7 @@ const allStories = [
   {
     thumbUrl: "https://images.pexels.com/photos/1535288/pexels-photo-1535288.jpeg?auto=compress&cs=tinysrgb&w=600",
     imageUrl: "https://images.pexels.com/photos/1535288/pexels-photo-1535288.jpeg?auto=compress&cs=tinysrgb&w=600",
-    title: "Appaji",
+    title: "Appji",
   },
 
   {
